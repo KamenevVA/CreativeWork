@@ -5,4 +5,4 @@
 
 Вычисление заданного выражения со скобками, проверка правильности заданного выражения.
 
-https://github.com/KamenevVA/CreativeWork/raw/main/img/home.png
+![Image alt](https://github.com/KamenevVA/CreativeWork/raw/main/img/home.png)
