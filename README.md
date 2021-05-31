@@ -5,3 +5,4 @@
 
 Вычисление заданного выражения со скобками, проверка правильности заданного выражения.
 
+https://github.com/KamenevVA/CreativeWork/raw/main/img/home.png
